@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: spring-context-5.1.2.RELEASE.jar aspectjweaver-1.9.2.jar s
+ pring-core-5.1.2.RELEASE.jar commons-lang-2.6.jar commons-pool2-2.4.2
+ .jar spring-oxm-5.1.5.RELEASE.jar spring-expression-5.1.2.RELEASE.jar
+  spring-tx-5.1.5.RELEASE.jar spring-data-redis-2.1.5.RELEASE.jar java
+ x.inject-1.jar spring-beans-5.1.2.RELEASE.jar spring-jcl-5.1.2.RELEAS
+ E.jar jedis-2.9.0.jar spring-aop-5.1.5.RELEASE.jar spring-data-keyval
+ ue-2.1.5.RELEASE.jar slf4j-simple-1.7.25.jar spring-data-commons-2.1.
+ 5.RELEASE.jar spring-context-support-5.1.5.RELEASE.jar slf4j-api-1.7.
+ 25.jar
+Main-Class: 
+
